@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MC2.BLL", "MC2.BLL\MC2.BLL.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MC2.WinForms", "MC2.WinForms\MC2.WinForms.csproj", "{A4BF6AAB-AA1C-47C9-8409-980BF4398BB8}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "packages", "packages", "{5EB1D37C-B26B-4D69-BAE1-504DAA113D81}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
