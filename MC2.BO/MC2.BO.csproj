@@ -31,6 +31,12 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="MC.DAL">
+      <HintPath>D:\2eme ANNEE\APPLICATION MULTICOUCHE\Code\PROF\Nouveau dossier\MC.DAL\bin\Debug\MC.DAL.dll</HintPath>
+    </Reference>
+    <Reference Include="MC2.BLL">
+      <HintPath>D:\2eme ANNEE\APPLICATION MULTICOUCHE\Code\PROF\Nouveau dossier\MC2.BLL\bin\Debug\MC2.BLL.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />

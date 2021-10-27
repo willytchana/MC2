@@ -32,6 +32,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="MC2.BLL">
+      <HintPath>D:\2eme ANNEE\APPLICATION MULTICOUCHE\Code\PROF\Nouveau dossier\MC2.BLL\bin\Debug\MC2.BLL.dll</HintPath>
+    </Reference>
     <Reference Include="MyLibsNet.Serialisation, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\MyLibs\MyLibsNet.Serialisation.dll</HintPath>
