@@ -11,14 +11,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MC2.BLL", "MC2.BLL\MC2.BLL.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MC2.WinForms", "MC2.WinForms\MC2.WinForms.csproj", "{A4BF6AAB-AA1C-47C9-8409-980BF4398BB8}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "packages", "packages", "{5EB1D37C-B26B-4D69-BAE1-504DAA113D81}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MyLibs", "MyLibs", "{74961CDA-ECD2-4B06-81FE-A98DBF8DFCCF}"
-	ProjectSection(SolutionItems) = preProject
-		packages\MyLibs\MyLibsNet.Serialisation.dll = packages\MyLibs\MyLibsNet.Serialisation.dll
-		packages\MyLibs\MyLibsNet.Serialisation.pdb = packages\MyLibs\MyLibsNet.Serialisation.pdb
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -44,9 +36,6 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
-		{74961CDA-ECD2-4B06-81FE-A98DBF8DFCCF} = {5EB1D37C-B26B-4D69-BAE1-504DAA113D81}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7CA93507-AF3A-4BA6-BC2E-E1E7956CF666}
